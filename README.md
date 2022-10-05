@@ -1,1 +1,1 @@
-Hi, I'm Gaurav Sharma, and this is my github profile.
+Hi, I'm Gaurav Sharma (gs), and this is my github profile.
